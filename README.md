@@ -1,4 +1,3 @@
 # my-portfolio
-analytics portfolio
-hhhhh
-hhkkkkkjj
+[Project 1:sales analysis](https://eneh-jennifer.github.io/sql-project/)\
+hhhhhhhhhhh
